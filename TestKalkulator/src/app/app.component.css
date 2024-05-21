@@ -1,0 +1,11 @@
+.background{
+    background-color:#8c93a1;
+    height:320px;
+    width:185px;
+    position: absolute;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

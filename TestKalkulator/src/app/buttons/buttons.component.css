@@ -1,0 +1,45 @@
+.operation{
+    width:30px;
+    background-color: #424957;
+    border-radius: 20px;
+    border-style:hidden;
+    font-size: large;
+    margin: 5px;
+    margin-right: 11px;
+    color:white;
+}
+
+.numberpad{
+    width:50px;
+    background-color: #424957;
+    border-radius: 20px;
+    border-style:hidden;
+    font-size: large;
+    margin: 5px;
+    color:white;
+}
+
+.equals{
+    width:170px;
+    background-color: #424957;
+    border-radius: 20px;
+    border-style:hidden;
+    font-size: large;
+    margin: 5px;
+    color:white;
+}
+
+.reset{
+    width:170px;
+    background-color: #424957;
+    border-radius: 20px;
+    border-style:hidden;
+    font-size: large;
+    margin: 5px;
+    color:white;
+}
+
+#button0{
+    position: relative;
+    left:60px;
+}
